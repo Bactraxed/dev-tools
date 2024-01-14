@@ -3,4 +3,4 @@ This is the developer foundation, where we provide tools that all developers wou
 
 ![Logo](/assets/images/source.jpg)
 ## Licenses
-All of our projects are available under the - license.
+All of our projects are available under the MIT license.
